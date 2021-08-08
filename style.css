@@ -1,0 +1,42 @@
+body{
+  height:100vh;
+  margin:0px;
+  background-size: cover;
+}
+
+#weather{
+  padding:20px 40px;
+  text-align: right;
+  color:white;
+}
+
+#clock{
+    text-align: center;
+    color: white;
+    font-size: 7vh;
+}
+form{
+  text-align: center;
+}
+
+#todoList{
+  width:20%;
+  margin: 40px 40%;
+  color:white;
+  font-size:20px;
+  font-weight: 600;
+}
+button{
+  margin-left:5px;
+  padding:5px 10px;
+}
+
+.hidden{
+  display: none;
+}
+
+h1{
+  text-align: center;
+  color:white;
+  
+}
